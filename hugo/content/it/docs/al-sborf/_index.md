@@ -5,18 +5,17 @@ description: >
   I giardini rocciosi di Al Sborf
 ---
 
-Quasi in nessun altro luogo è più impressionante vedere quanto fosse scarso l'habitat 
-habitat nella Valle Calanca 300 e più anni fa. 
+È difficile vedere quanto fosse scarso l'habitat nella Valle 
+Calanca 300 anni fa e oltre. 
 
-L'area con le mura restaurate
-documenta la coltivazione del grano al limite del possibile e
-i disperati tentativi delle generazioni precedenti di assicurarsi in qualche modo la
-per assicurarsi in qualche modo il cibo. 
+L'area con le mura restaurate documenta la coltivazione del grano 
+ai limiti del possibile e i tentativi disperati delle generazioni 
+precedenti di assicurarsi in qualche modo il cibo. 
 
-Le pareti, fatte di pietre grezze, si appoggiano in modo irregolare a grandi massi 
-grandi massi, di cui sfruttano appieno la riflessione termica e la protezione dal vento. 
-e la protezione dal vento sono sfruttate al massimo. Sulle piccole
-aree dietro le pareti e sulle grandi rocce c'è solo una sottile
-Sulle grandi rocce c'è solo un sottile strato di terra, faticosamente raschiato. 
+I muri, fatti di pietre grezze, si appoggiano irregolarmente a 
+grandi massi, di cui sfruttano appieno l'effetto di riflessione 
+del calore e di protezione dal vento. Sulle piccole aree dietro i muri 
+e sulle grandi rocce c'è solo un sottile strato di terra faticosamente raschiato.
 
 Un deserto di pietra ha dato il suo piccolo contributo alla sopravvivenza!
+

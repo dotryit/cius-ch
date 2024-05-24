@@ -9,8 +9,8 @@ Wir stehen hier vor der rundum von schützenden
 Mauern eingefassten Anlage „Ciüs“. Diese umfasst rund 10 Aren.
 
 Der Arbeitsaufwand für die Erstellung war enorm. Im Durchschnitt
-mussten pro Quadratmeter Anbaufläche 1.2 Tonnen Steine in Mau-
-ern verbaut werden, und dies ausschliesslich mit menschlicher
+mussten pro Quadratmeter Anbaufläche 1.2 Tonnen Steine in Mauern 
+verbaut werden, und dies ausschliesslich mit menschlicher
 Arbeitskraft.
 
 Getreideanbau ist im engen Bergtal nur bei günstigen
