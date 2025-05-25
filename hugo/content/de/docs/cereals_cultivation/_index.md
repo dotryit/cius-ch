@@ -1,8 +1,8 @@
 ---
-title: Ackerbau
+title: Getreideanbau
 weight: 1
 description: >
-  Zur Bedeutung des Ackerbaus im Calancatal
+  Zur Bedeutung des Getreideanbaus im Calancatal
 ---
 
 Bis zur Mitte des 19. Jh. war der Getreideanbau

@@ -1,8 +1,8 @@
 ---
-title: Seminativi
+title: Coltivazione dei cereali
 weight: 1
 description: >
-  L'importanza dell'agricoltura nella Valle Calanca
+  L'importanza della coltivazione dei cereali nella Valle Calanca
 ---
 
 Fino alla metà del XIX secolo, la coltivazione dei cereali rivestiva una grande 

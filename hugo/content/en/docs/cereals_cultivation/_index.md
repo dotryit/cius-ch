@@ -1,15 +1,15 @@
 ---
-title: Agriculture
+title: Cereal cultivation
 weight: 1
 description: >
-  The importance of agriculture in the Calanca Valley
+  The importance of cereal cultivation in the Calanca Valley
 ---
 
-Until the middle of the 19th century, grain cultivation 
+Until the middle of the 19th century, cereal cultivation 
 was of great importance in the Calanca Valley. As there were no 
 passable roads in the valley, food was based almost entirely on 
-self-sufficiency. A family needed at least 10 to 15 acres of grain 
-cultivation if they wanted to have 2 to 3 kilograms of 
+self-sufficiency. A family needed at least 10 to 15 acres of cereal 
+acreage if they wanted to have 2 to 3 kilograms of 
 their own bread per week.
 
 The necessary land could only be obtained by terracing steep slopes. 

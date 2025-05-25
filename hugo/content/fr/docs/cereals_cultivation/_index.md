@@ -1,11 +1,11 @@
 ---
-title: Agriculture
+title: Culture des céréales
 weight: 1
 description: >
-  L'importance de l'agriculture dans le Val Calanca
+  L'importance de la culture des céréales dans le Val Calanca
 ---
 
-Jusqu'au milieu du 19e siècle, la culture des céréales était très importante.
+Jusqu'au milieu du 19e siècle, la culture des céréales
 était très importante dans le Val Calanca. Comme
 il n'y avait pas de chemins carrossables dans la vallée,
 l'alimentation reposait presque entièrement sur
